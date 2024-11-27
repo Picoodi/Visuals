@@ -7,8 +7,6 @@ const ctx = canvas.getContext("2d");
 const height = canvas.height;
 const width = canvas.width;
 
-//implementing the Newton G constant in js
-const G = 0.1;
 
 
 
